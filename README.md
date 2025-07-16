@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Kaelo Lentsoe
-- 👀 I’m interested in Blockchain development & System development 
-- 💞️ I’m looking to collaborate on any blockchain related projects
-- 📫 How to reach me on KaeloLentsoe@protonmail.com
+Hi, I’m Kaelo Lentsoe
+
 
 <!---
 KaeloLentsoe/KaeloLentsoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
