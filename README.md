@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Kaelo Lentsoe
+# Hi, I’m Kaelo Lentsoe
 Technologist based in Cape Town, South Africa. I bridge Spirituality and technology by combining **Regenerative finance outreach & redefining what value** 
 
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn–Kaelo%20Lentsoe-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaelolentsoe/)
 [![GitHub](https://img.shields.io/badge/GitHub–KaeloLentsoe-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaeloLentsoe)
 
