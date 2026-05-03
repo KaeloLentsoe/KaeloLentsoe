@@ -1,5 +1,5 @@
 # Hi, I’m Kaelo Lentsoe
-Technologist based in Cape Town, South Africa. I bridge Spirituality and technology by combining **Regenerative finance outreach & redefining what value is ** 
+Technologist based in Cape Town, South Africa. I bridge Spirituality and technology by combining **Regenerative finance outreach & redefining what value is** 
 
 
 ## My GitHub Stats
